@@ -1,0 +1,10 @@
+C:\Users\Vida\source\repos\VehicleDbWebProject\VehicleService\bin\Debug\netcoreapp3.1\VehicleService.deps.json
+C:\Users\Vida\source\repos\VehicleDbWebProject\VehicleService\bin\Debug\netcoreapp3.1\VehicleService.dll
+C:\Users\Vida\source\repos\VehicleDbWebProject\VehicleService\obj\Debug\netcoreapp3.1\VehicleService.csprojAssemblyReference.cache
+C:\Users\Vida\source\repos\VehicleDbWebProject\VehicleService\obj\Debug\netcoreapp3.1\VehicleService.AssemblyInfoInputs.cache
+C:\Users\Vida\source\repos\VehicleDbWebProject\VehicleService\obj\Debug\netcoreapp3.1\VehicleService.AssemblyInfo.cs
+C:\Users\Vida\source\repos\VehicleDbWebProject\VehicleService\bin\Debug\netcoreapp3.1\VehicleService.runtimeconfig.json
+C:\Users\Vida\source\repos\VehicleDbWebProject\VehicleService\bin\Debug\netcoreapp3.1\VehicleService.runtimeconfig.dev.json
+C:\Users\Vida\source\repos\VehicleDbWebProject\VehicleService\bin\Debug\netcoreapp3.1\VehicleService.pdb
+C:\Users\Vida\source\repos\VehicleDbWebProject\VehicleService\obj\Debug\netcoreapp3.1\VehicleService.dll
+C:\Users\Vida\source\repos\VehicleDbWebProject\VehicleService\obj\Debug\netcoreapp3.1\VehicleService.pdb
